@@ -169,10 +169,4 @@ public class ArbolBinario {
         return nodo;
     }
 
-
-
-
-
-
-
 }
